@@ -14,6 +14,6 @@ function sumar()
 
 	//ME DIO Y NO SÉ CÓMO
 
-	alert("Resultado "+suma);
+	alert("Resultado de su suma "+suma);
 }
 
